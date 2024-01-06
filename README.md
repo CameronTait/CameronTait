@@ -2,9 +2,9 @@
 
 - 📚 I completed CodeClan's 18 week full-time software development bootcamp
 - 🎓 Since then, I've been finishing up a 2nd degree in computer science & IT
-- 💻 I work in cybersecurity and have been working hard on certifications for the past 3 years
-- 🌱 Soon I'll have more time to code, alongside other cybersecurity projects
-- 📫 You can find my contact details on my website linked on my GitHub profile
+- 💻 I work in cybersecurity and have been working hard on certifications for over 3 years
+- 🌱 Soon I'll have more time to code, alongside completing other cybersecurity projects
+- 📫 You can find my contact details on my website.  It is linked on my GitHub profile
 
 Have a great day 😊
 
